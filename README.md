@@ -11,7 +11,7 @@ Ismail Mohamed: [![alt text](https://www.alxafrica.com/wp-content/uploads/2022/0
 ```
 ALX - Software Engineering Programme
 Cohort_6
-Telephone = +251927802065 
+Telephone = +251910038340
 E-Mail = haaji.dheere@gmail.com
 ```
 
