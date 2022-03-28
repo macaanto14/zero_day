@@ -4,7 +4,7 @@
 
 
 
-Ismail Mohamed: [![alt text](//alx-intranet.hbtn.io/assets/holberton-logo-full-alx-09a5c519daa1c960a06590bc17b5f94ab6dcb39a848ce987a4e8abbcce636d63.png )]
+Ismail Mohamed: [![alt text](https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png )]
 ("ALX - Software Engineering Program - Cohort_6")
 
 
