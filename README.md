@@ -4,7 +4,7 @@
 
 
 
-Ismail Mohamed: [ALX - Software Engineering Programme![alt text](https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png )]
+Ismail Mohamed: (https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png )
 ("ALX - Software Engineering Program - Cohort_6")
 
 
